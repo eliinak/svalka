@@ -1,6 +1,6 @@
 # svalka
 
-Svalka is a web application created in IntelliJ IDEA. It uses Spring, Apache Maven, Node.js, Vue.js, BoostrapVue and PgAdmin for database.
+Svalka is a web application created in IntelliJ IDEA. It uses Spring Boot, Apache Maven, Node.js, Vue.js, BoostrapVue and PgAdmin for database.
 
 1.Тhis page of the web application allows the user to create a registration if it does not already exist
 ![2](https://user-images.githubusercontent.com/79605705/111513752-cad92680-8759-11eb-944b-88478f24ef87.png)
